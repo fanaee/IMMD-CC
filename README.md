@@ -1,5 +1,5 @@
 # IMMD-CC
-Iterative Multi-mode Discretization: Applications to Co-clustering
+Iterative Multi-mode Discretization: Applications to Co-clustering, Discovery Science 2020
 
 Paper:  https://doi.org/10.1007/978-3-030-61527-7_7
 
